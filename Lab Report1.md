@@ -1,3 +1,6 @@
+Lab Report 1
+
+
 In the first week lab report we indutroduced ourselves to each other in the group, then we are starting to our practice of remote access.
 First step, we download the Visual Studio Code and how to set up the coding environment.(Installing VScode)
 ![Image](WechatIMG17.jpeg)
