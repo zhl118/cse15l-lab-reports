@@ -6,7 +6,7 @@ First step, we download the Visual Studio Code and how to set up the coding envi
 ![Image](WechatIMG17.jpeg)
 
 In second step, we are remotely connecting by using ssh with our specific account. There will be a confirm message, when we type yes, we are required to type the password we just changed for our account.(Remotely Connecting)
-![Image](WechatIMG18.jpeg)
+![Image](lab1.png)
 
 next part, we used some useful command.(Trying Some Commands)
 ![Image](WechatIMG19.jpeg)
