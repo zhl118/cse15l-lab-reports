@@ -5,7 +5,8 @@ In the first week lab report we indutroduced ourselves to each other in the grou
 First step, we download the Visual Studio Code and how to set up the coding environment.
 ![Image](WechatIMG17.jpeg)
 
-In second step, we are remotely connecting by using ssh with our specific account. There will be a confirm message, when we type yes, we are required to type the password we just changed for our account.(Remotely Connecting)
+Remotely Connecting
+In second step, we are remotely connecting by using ssh with our specific account. There will be a confirm message, when we type yes, we are required to type the password we just changed for our account.
 ![Image](lab1.png)
 
 next part, we used some useful command.(Trying Some Commands)
